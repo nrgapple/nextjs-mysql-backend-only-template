@@ -8,9 +8,13 @@
     "migrate": "node scripts/migrate-db.js"
   },
   "dependencies": {
+    "@prisma/client": "^2.20.0",
+    "@types/next-auth": "^3.13.0",
     "bad-words": "^3.0.4",
     "dotenv": "^8.2.0",
     "next": "latest",
+    "next-auth": "^3.13.3",
+    "prisma": "^2.20.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "serverless-mysql": "^1.5.4",
