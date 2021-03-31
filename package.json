@@ -1,5 +1,5 @@
 {
-  "name": "with-mysql-backend-only",
+  "name": "nextjs-mysql-backend-only-template",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
